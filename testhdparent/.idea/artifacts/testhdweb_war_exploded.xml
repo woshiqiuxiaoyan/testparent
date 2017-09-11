@@ -1,0 +1,31 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="testhdweb:war exploded">
+    <output-path>$PROJECT_DIR$/testhdweb/target/test-hd-web</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="testhdweb" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="archive" name="test-hd-foundation-1.0-SNAPSHOT.jar">
+            <element id="module-output" name="testhdfoundation" />
+          </element>
+          <element id="archive" name="test-hd-api-1.0-SNAPSHOT.jar">
+            <element id="module-output" name="testhdapi" />
+          </element>
+          <element id="library" level="project" name="Maven: org.projectlombok:lombok:1.16.10" />
+          <element id="archive" name="test-hd-service-1.0-SNAPSHOT.jar">
+            <element id="module-output" name="testhdservice" />
+          </element>
+          <element id="archive" name="test-hd-resource-1.0-SNAPSHOT.jar">
+            <element id="module-output" name="testhdresource" />
+          </element>
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/testhdweb/target/test-hd-web/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="testhdweb/web/Web" />
+    </root>
+  </artifact>
+</component>

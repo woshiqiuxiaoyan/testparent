@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="testhdapi" />
+        <module name="testhdmodules" />
+        <module name="testhdweb" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="testhdapi" target="1.8" />
+      <module name="testhdfoundation" target="1.8" />
+      <module name="testhdmodules" target="1.5" />
+      <module name="testhdparent" target="1.5" />
+      <module name="testhdresource" target="1.8" />
+      <module name="testhdservice" target="1.8" />
+      <module name="testhdweb" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

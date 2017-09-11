@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="testhdweb:war">
+    <output-path>$PROJECT_DIR$/testhdweb/target</output-path>
+    <root id="archive" name="test-hd-web.war">
+      <element id="artifact" artifact-name="testhdweb:war exploded" />
+    </root>
+  </artifact>
+</component>

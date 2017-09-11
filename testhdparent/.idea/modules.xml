@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/testhdmodules/testhdadmin.iml" filepath="$PROJECT_DIR$/testhdmodules/testhdadmin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testhdapi/testhdapi.iml" filepath="$PROJECT_DIR$/testhdapi/testhdapi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testhdfoundation/testhdfoundation.iml" filepath="$PROJECT_DIR$/testhdfoundation/testhdfoundation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testhdmodules/testhdmodules.iml" filepath="$PROJECT_DIR$/testhdmodules/testhdmodules.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testhdparent.iml" filepath="$PROJECT_DIR$/testhdparent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testhdresource/testhdresource.iml" filepath="$PROJECT_DIR$/testhdresource/testhdresource.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testhdservice/testhdservice.iml" filepath="$PROJECT_DIR$/testhdservice/testhdservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testhdweb/testhdweb.iml" filepath="$PROJECT_DIR$/testhdweb/testhdweb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testhdmodules/testhdwww.iml" filepath="$PROJECT_DIR$/testhdmodules/testhdwww.iml" />
+    </modules>
+  </component>
+</project>
